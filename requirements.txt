@@ -1,0 +1,16 @@
+Django==3.1
+Pillow==8.0
+psycopg2-binary==2.8.5
+djangorestframework==3.11.0
+python-decouple==3.4
+
+djangorestframework-simplejwt==4.4.0
+
+
+django-filter
+drf-yasg
+celery
+redis
+django-modeltranslation
+bs4
+requests
